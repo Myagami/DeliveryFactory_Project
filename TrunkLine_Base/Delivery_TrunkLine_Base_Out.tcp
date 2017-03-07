@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "Obj=factory\nName=Delivery_TrunkLine_Base(Out)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\n\nInputGood[0]=Delivery_Box(District)\nInputCapacity[0]=300\nInputFactor[0]=100\nOutputGood[0]=Delivery_Box(Trunk)\nOutputCapacity[0]=300\nOutputFactor[0]=100"
+        }, 
+        "dims": {
+            "directions": 1, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 64, 
+            "winter": 0, 
+            "x": 2, 
+            "y": 2, 
+            "z": 1
+        }, 
+        "files": {
+            "datfile_location": "Delivery_TrunkLine_Base_Out.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "Delivery_TrunkLine_Base_Out_src.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "..\\TrunkLine_Base\\Delivery_TrunkLine_Out.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "..\\TrunkLine_Base\\Delivery_TrunkLine_Out.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}

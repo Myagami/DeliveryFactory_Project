@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "Obj=factory\nName=Delivery_TrunkLine_Base(In)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\nInputGood[0]=Delivery_Box(District)\nInputCapacity[0]=300\nInputFactor[0]=100\nOutputGood[0]=Delivery_Box(Trunk)\nOutputCapacity[0]=300\nOutputFactor[0]=100\n"
+        }, 
+        "dims": {
+            "directions": 1, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 64, 
+            "winter": 0, 
+            "x": 2, 
+            "y": 2, 
+            "z": 1
+        }, 
+        "files": {
+            "datfile_location": "Delivery_TrunkLine_Base_In.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "Delivery_TrunkLine_Base_In_src.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "..\\TrunkLine_Base\\Delivery_TrunkLine_In.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "Delivery_DistrictBase_In_E.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}
