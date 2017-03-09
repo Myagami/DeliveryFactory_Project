@@ -1,4 +1,6 @@
-* Readme...
+Readme...
+=========
 
-** Extensions
+Extensions
+----------
 冷蔵便とか既存の産業や箱積への組み込みとか
