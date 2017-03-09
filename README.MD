@@ -35,6 +35,18 @@
 >>
 >> 消費:幹線カーゴ
 
+## 貨物一覧
+
+* Delivery_Box(Small) / 小口荷物
+> 営業所と地区物流センター間とやりとりします
+>> 単位:box / 箱
+* Delivery_Box(District) / 地区カーゴ
+> 単位:Cargo / カーゴ
+>> 地区物流センター間や主要物流センター間とでやり取りします
+* Delivery_Box(Trunk) / 幹線カーゴ
+> 単位:Cargo / カーゴ
+>> 主要物流センター間でやり取りします
+
 ## 産業フロー
 
 ![フロー](https://raw.githubusercontent.com/Myagami/DeliveryFactory_Project/master/Delivery_Flow.png)
