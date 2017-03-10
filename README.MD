@@ -55,4 +55,10 @@
 ## 産業フロー
 
 ![フロー](https://raw.githubusercontent.com/Myagami/DeliveryFactory_Project/master/Delivery_Flow.png)
-##
+
+## Extensions
+拡張アドオンについては以下のページの参照を強くおすすめします
+
+[Extension](https://github.com/Myagami/DeliveryFactory_Project/tree/master/Extensions)
+
+
