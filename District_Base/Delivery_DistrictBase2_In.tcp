@@ -2,23 +2,23 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "Obj=factory\nName=Delivery_DistrictBase(In)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\nInputGood[0]=Delivery_Box(Small)\nInputCapacity[0]=1800\nInputFactor[0]=50\nOutputGood[0]=Delivery_Box(District)\nOutputCapacity[0]=300\nOutputFactor[0]=50\n"
+            "dat_lump": "Obj=factory\nName=Delivery_DistrictBase2(In)\nLocation=Land\nDistributionWeight=1\nProductivity=30\nRange=1\nMapcolor=34\nchance=100\nInputGood[0]=Delivery_Box(Small)\nInputCapacity[0]=1800\nInputFactor[0]=50\nOutputGood[0]=Delivery_Box(District)\nOutputCapacity[0]=300\nOutputFactor[0]=50\n"
         }, 
         "dims": {
-            "directions": 2, 
+            "directions": 4, 
             "frames": 1, 
             "frontimage": 0, 
             "paksize": 64, 
             "winter": 0, 
-            "x": 1, 
-            "y": 2, 
+            "x": 2, 
+            "y": 3, 
             "z": 1
         }, 
         "files": {
-            "datfile_location": "Delivery_DistrictBase_In.dat", 
+            "datfile_location": "Delivery_DistrictBase2_In.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "Delivery_DistrictBase_In_src.png"
+            "pngfile_location": "Delivery_DistrictBase2_In_src.png"
         }, 
         "images": [
             [
@@ -29,7 +29,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "Delivery_DistrictBase_In.png"
+                            "path": "Delivery_DistrictBase2-In_South.png"
                         }, 
                         {
                             "offset": [
@@ -67,7 +67,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "Delivery_DistrictBase_In_E.png"
+                            "path": "Delivery_DistrictBase2-In_East.png"
                         }, 
                         {
                             "offset": [
@@ -105,7 +105,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "Delivery_DistrictBase2-In_North.png"
                         }, 
                         {
                             "offset": [
@@ -143,7 +143,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "Delivery_DistrictBase2-In_West.png"
                         }, 
                         {
                             "offset": [
