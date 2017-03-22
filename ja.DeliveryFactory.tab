@@ -11,6 +11,7 @@ Delivery_Box(Trunk)
 幹線カーゴ
 box
 箱
+Cargo
 カーゴ
 Delivery_DistrictBase(Out)
 地区物流センター(発送)
