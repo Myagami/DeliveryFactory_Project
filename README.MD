@@ -56,6 +56,8 @@
 
 ![フロー](https://raw.githubusercontent.com/Myagami/DeliveryFactory_Project/master/Delivery_Flow.png)
 
+※主要物流センターについては発送→配送のみ接続されますのでご注意下さい
+
 ## Extensions
 拡張アドオンについては以下のページの参照を強くおすすめします
 
