@@ -4,7 +4,7 @@ Location=Land
 DistributionWeight=1
 Productivity=150
 Range=20
-Mapcolor=34
+Mapcolor=76
 chance=100
 
 InputGood[0]=Delivery_Box(District)
