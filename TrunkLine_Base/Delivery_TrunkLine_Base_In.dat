@@ -9,7 +9,7 @@ chance=100
 
 InputGood[0]=Delivery_Box(Trunk)
 InputCapacity[0]=300
-InputFactor[0]=45
+InputFactor[0]=100
 OutputGood[0]=Delivery_Box(District)
 OutputCapacity[0]=900
 OutputFactor[0]=100
