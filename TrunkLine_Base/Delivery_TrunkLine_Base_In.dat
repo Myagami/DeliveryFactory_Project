@@ -12,7 +12,7 @@ InputCapacity[0]=300
 InputFactor[0]=100
 OutputGood[0]=Delivery_Box(District)
 OutputCapacity[0]=900
-OutputFactor[0]=400
+OutputFactor[0]=200
 
 dims=2,2,1
 BackImage[0][0][0][0][0][0]=Delivery_TrunkLine_Base_In_src.0.0
